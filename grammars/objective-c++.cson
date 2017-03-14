@@ -3,6 +3,8 @@
   'mm'
   'M'
   'h'
+  'xm'
+  'xmi'
 ]
 'name': 'Objective-C++'
 'patterns': [

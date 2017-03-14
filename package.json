@@ -6,14 +6,14 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-objective-c",
+  "homepage": "https://github.com/Shade-Zepheri/language-objective-c",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-objective-c.git"
+    "url": "https://github.com/Shade-Zepheri/language-objective-c.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-objective-c/issues"
+    "url": "https://github.com/Shade-Zepheri/language-objective-c/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
